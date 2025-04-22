@@ -8,8 +8,11 @@ No site tem a aba de menu, uma área onde mostra "sobre nós", card com o cardá
 está é uma sugestão de como ficaria os arquivos: 
 
 Projeto Integrador /
+
 | -------- documentação/
+|
 |.                  - briefing.pdf/
+|
 |                   - protótipo-figma.pdf ou link/
 |.                  -  modelo-banco.pdf
 |
