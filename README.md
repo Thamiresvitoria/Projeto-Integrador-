@@ -1,5 +1,5 @@
 # Projeto-Integrador- Site Dulce Salgados 
-Eu e minha equipe estamos tentando desenvoler um site web onde uma das nossas colegas que é confeitaria podera por seus produtos e divulgar para os seus clientes, estamos tentando desenvolver um fronted e um backend. 
+Eu e minha equipe composta por Thalison, Renam, Vinícius, Moises e Dulce estamos tentando desenvoler um site web onde uma das nossas colegas que é confeitaria podera por seus produtos e divulgar para os seus clientes, estamos tentando desenvolver um fronted e um backend. 
 Ainda somos inexperiente nesta área, começamos agora. 
 
 Estamos tentando fazer com que ele tenha um layout funcional, um fronted bonito estamos tentando fazer com que o nosso backend se conecte com o Fronted.
